@@ -1,0 +1,109 @@
+{
+    "data_users":[
+        {
+          "id":1,
+          "nama":"fulan 1",
+          "alamat":"bekasi 1",
+          "umur":"10",
+          "nohp":"0856111111"
+        },
+        {
+          "id":2,
+          "nama":"fulan 2",
+          "alamat":"bekasi 2",
+          "umur":"20",
+          "nohp":"0856222222"
+        },
+        {
+          "id":3,
+          "nama":"fulan 3",
+          "alamat":"bekasi 3",
+          "umur":"30",
+          "nohp":"0856333333"
+        },
+        {
+          "id":4,
+          "nama":"fulan 4",
+          "alamat":"bekasi 4",
+          "umur":"40",
+          "nohp":"0856444444"
+        },
+        {
+          "id":5,
+          "nama":"fulan 5",
+          "alamat":"bekasi 5",
+          "umur":"50",
+          "nohp":"0856555555"
+        },
+        {
+          "id":6,
+          "nama":"fulan 6",
+          "alamat":"bekasi 6",
+          "umur":"60",
+          "nohp":"0856666666"
+        },
+        {
+          "id":7,
+          "nama":"fulan 7",
+          "alamat":"bekasi 7",
+          "umur":"70",
+          "nohp":"0856777777"
+        },
+        {
+          "id":8,
+          "nama":"fulan 8",
+          "alamat":"bekasi 8",
+          "umur":"80",
+          "nohp":"0856888888"
+        },
+        {
+          "id":9,
+          "nama":"fulan 9",
+          "alamat":"bekasi 9",
+          "umur":"90",
+          "nohp":"0856999999"
+        },
+        {
+          "id":10,
+          "nama":"fulan 10 ",
+          "alamat":"bekasi 10",
+          "umur":"100",
+          "nohp":"0856101010"
+        },
+        {
+          "id":11,
+          "nama":"fulan 11 ",
+          "alamat":"bekasi 10",
+          "umur":"110",
+          "nohp":"0856111111"
+        },
+        {
+          "id":12,
+          "nama":"fulan 12 ",
+          "alamat":"bekasi 12",
+          "umur":"120",
+          "nohp":"0856121212"
+        },
+        {
+          "id":13,
+          "nama":"fulan 13 ",
+          "alamat":"bekasi 13",
+          "umur":"130",
+          "nohp":"0856131313"
+        },
+        {
+          "id":14,
+          "nama":"fulan 14 ",
+          "alamat":"bekasi 14",
+          "umur":"140",
+          "nohp":"0856141414"
+        },
+        {
+          "id":15,
+          "nama":"fulan 15 ",
+          "alamat":"bekasi 15",
+          "umur":"150",
+          "nohp":"0856151515"
+        }
+      ],
+}
