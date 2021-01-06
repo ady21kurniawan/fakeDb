@@ -1,3 +1,11 @@
 {
-   "berak":"tai"
+   "data_user" : [
+      {
+          "id":"1",
+          "nama":"fulan 1",
+          "alamat":"bekasi 1",
+          "umur":"10",
+          "nohp":"0856111111"
+        }
+   ]
 }
